@@ -4,7 +4,7 @@ This project explores World of Warcraft’s 3v3 **PVP leaderboard data** across 
 
 ---
 
-## 📊 Project Overview  
+## Project Overview  
 - **Goal**: Understand which specs and factions dominate the competitive PVP scene.  
 - **Data Source**: Blizzard’s World of Warcraft API (Leaderboard endpoints).  
 - **Scope**: Analysis spans **four Dragonflight PVP seasons**, focusing on the top 5000 players in 3v3 arenas.  
@@ -21,15 +21,15 @@ This project explores World of Warcraft’s 3v3 **PVP leaderboard data** across 
 3. **Fire Mage** – low representation and performance  
 
 **Healers**
-- 🥇 **Restoration Druid**: #1 across three seasons  
-- 🥉 **Mistweaver Monk**: consistently bottom-tier healer  
+-  **Restoration Druid**: #1 across three seasons  
+-  **Mistweaver Monk**: consistently bottom-tier healer  
 
 **Faction Split**
 - ~70% of top players are **Alliance**, driven by racial advantages (e.g., *Shadowmeld*).  
 
 ---
 
-## 🛠️ Tools & Methods  
+##  Tools & Methods  
 - **Languages**: Python (Jupyter Notebook)  
 - **APIs**: Blizzard Battle.net Game Data APIs  
 - **Analysis**: Pandas for data wrangling, Matplotlib/Seaborn for visuals  
@@ -37,7 +37,7 @@ This project explores World of Warcraft’s 3v3 **PVP leaderboard data** across 
 
 ---
 
-## 🔗 Project Files  
+##  Project Files  
 - 📓 Notebook: [`PVPLeaderBoard.ipynb`](./PVPLeaderBoard.ipynb)  
 - 📑 Report (PDF): [`Wow 3s pvp - dragonflight stats.pdf`](./Wow%203s%20pvp%20-%20dragonflight%20stats.pdf)  
 - 📊 Interactive Dashboard: [Tableau PVP Leaderboard](https://public.tableau.com/app/profile/joun.bae/viz/WorldofWarcraftDragonflightPVP/Dragonflightpvpleaderboard?publish=yes)  
