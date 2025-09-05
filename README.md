@@ -38,9 +38,9 @@ This project explores World of Warcraft’s 3v3 **PVP leaderboard data** across 
 ---
 
 ##  Project Files  
-- 📓 Notebook: [`PVPLeaderBoard.ipynb`](./PVPLeaderBoard.ipynb)  
-- 📑 Report (PDF): [`Wow 3s pvp - dragonflight stats.pdf`](./Wow%203s%20pvp%20-%20dragonflight%20stats.pdf)  
-- 📊 Interactive Dashboard: [Tableau PVP Leaderboard](https://public.tableau.com/app/profile/joun.bae/viz/WorldofWarcraftDragonflightPVP/Dragonflightpvpleaderboard?publish=yes)  
+-  Notebook: [`PVPLeaderBoard.ipynb`](./PVPLeaderBoard.ipynb)  
+-  Report (PDF): [`Wow 3s pvp - dragonflight stats.pdf`](./Wow%203s%20pvp%20-%20dragonflight%20stats.pdf)  
+-  Interactive Dashboard: [Tableau PVP Leaderboard](https://public.tableau.com/app/profile/joun.bae/viz/WorldofWarcraftDragonflightPVP/Dragonflightpvpleaderboard?publish=yes)  
 
 ---
 
